@@ -1,0 +1,99 @@
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  .myProfilePic{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  p{
+    text-align: center;
+    padding-top: 5px;
+  }
+  .card{
+    margin-top:10px;
+  }
+  
+  .column {
+    float: right;
+    padding: 10px;
+  }
+  .left {
+    width: 25%;
+  }
+  .right {
+    width: 75%;
+  }
+  .changePassword{
+    padding-top: 30px;
+    display:block;
+    text-align:center;
+  }
+  .header-text{
+    display:block;
+    text-align:left;
+  }
+  #change{
+    display:block;
+    text-align:left;
+    margin-left:15px;
+    margin-bottom:15px;
+  }
+  label{
+    margin-right:5px;
+  }
+  input{
+    margin:5px 5px;
+  }
+  ul{
+    list-style-type: none;
+}
+li{
+margin-top: 10px;
+}
+    .card {
+      border: 2px solid rgb(136, 153, 166);
+      border-radius: 10px;
+      width: 35vw;
+      padding: 1.5rem;
+      box-shadow: 5px, 5px, 2px rgba(0, 0, 0, 0.5);
+     background-color: whitesmoke;
+    }
+    .replies{
+      width:auto;
+      height:auto;
+
+    }
+  
+      .header {
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 1rem;
+      }
+        img {
+          width: 100px;
+          height: 100px;
+          border-radius: 50%;
+        }
+        .myProfilePic{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .header-text {
+          margin-left: 1rem;
+          margin-top: 2rem;
+          display: flex;
+          flex-direction: column;
+        }
+        
+          .name {
+            color: rgb(136, 153, 166);
+          }
+          .change-password{
+            display:block;
+            text-align: center;
+          }
+          
