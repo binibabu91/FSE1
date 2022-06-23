@@ -1,1 +1,4 @@
+To copy asset folder
 
+ cp -pr /home/ec2-user/TweetAppClient/assets .
+  chown root.root assets -R
